@@ -1,0 +1,13 @@
+{
+  "name": "foundation-datepicker",
+  "homepage": "https://github.com/idlleF/BE-foundation-calendar",
+  "_release": "a3d4bb08a1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a3d4bb08a152f5b2b519a1ca0c4d5b9e18788388"
+  },
+  "_source": "https://github.com/idlleF/BE-foundation-calendar.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/idlleF/BE-foundation-calendar.git"
+}
