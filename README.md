@@ -1,5 +1,5 @@
-echo # BE-foundation-calendar
-echo 
-echo *DEPRECATED*
-echo 
-echo Here only for compatibility reasons
+# BE-foundation-calendar
+
+*DEPRECATED*
+
+Here only for compatibility reasons
